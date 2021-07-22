@@ -48,7 +48,7 @@ var dh = document.getElementById("dh");
 var dy = document.getElementById("dy");
 var mg = document.getElementById("mg");
 var hj = document.getElementById("hj");
-var hwaj = document.getElementById("hwaj")
+var hwaj = document.getElementById("hwaj");
 var left = document.getElementById("left");
 var right = document.getElementById("right");
 
